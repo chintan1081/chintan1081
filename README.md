@@ -11,13 +11,13 @@ Welcome to my GitHub profile! I'm a full-stack engineer driven by a passion for 
 
 Here are some of my most popular GitHub repos:  
 
-- **[AI Website Builder](https://github.com/yourusername/ai-website-builder)**  
+- **[AI Website Builder](https://github.com/chintan1081/lovable)**  
   A real-time website builder generating editable sites from user ideas with GPT-4o-mini & Vercel AI SDK.
 
-- **[N8n Clone Workflow Automator](https://github.com/yourusername/n8n-clone)**  
+- **[N8n Clone Workflow Automator](https://github.com/chintan1081/n8n-clone)**  
   No-code workflow automation platform integrated with AI and external services.
 
-- **[AnimaGraph](https://github.com/yourusername/animaggraph)**  
+- **[AnimaGraph](https://github.com/chintan1081/animagraph)**  
   Converts text prompts into mathematical animations using Manim and AI.
 
 *(Replace the URLs with the actual links to your repositories)*
