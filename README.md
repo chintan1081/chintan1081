@@ -3,7 +3,7 @@
 
 ---
 
-Welcome to my GitHub profile! I'm a full-stack engineer driven by a passion for crafting real-time, AI-powered digital experiences that are instantly responsive, effortlessly scalable, and delightfully simple—transforming complex ideas into seamless, user-centered solutions that feel natural and impactful from the very first interaction.
+Welcome to my GitHub profile! I'm a full-stack engineer driven by a passion for crafting real-time, AI-powered digital experiences that are instantly responsive, scalable, and simple—transforming complex ideas into seamless, user-centered solutions that feel natural and impactful from the very first interaction.
 
 ---
 
