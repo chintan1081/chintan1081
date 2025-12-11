@@ -20,8 +20,6 @@ Here are some of my most popular GitHub repos:
 - **[AnimaGraph](https://github.com/chintan1081/animagraph)**  
   Converts text prompts into mathematical animations using Manim and AI.
 
-*(Replace the URLs with the actual links to your repositories)*
-
 ---
 
 ## 📫 Connect With Me  
