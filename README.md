@@ -26,7 +26,7 @@ Here are some of my most popular GitHub repos:
 
 - [LinkedIn](https://linkedin.com/in/chintanpatel1081)  
 - [GitHub](https://github.com/chintan1081)  
-- Portfolio: [mscott-portfolio.vercel.app](https://mscott-portfolio.vercel.app)  
+- Portfolio: [chintan-portfolio.vercel.app](https://chintan-portfolio-website.vercel.app/)  
 - Email: chintanpatel1081@gmail.com  
 
 ---
