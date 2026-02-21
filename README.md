@@ -1,5 +1,5 @@
 # Hi, I'm Chintan Patel 👋  
-**Software Engineer**
+**Full Stack Developer**
 
 ---
 
