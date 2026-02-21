@@ -24,7 +24,7 @@ Here are some of my most popular GitHub repos:
 
 ## 📫 Connect With Me  
 
-- [LinkedIn](https://linkedin.com/in/chintanpatel1081)  
+
 - [GitHub](https://github.com/chintan1081)  
 - Email: chintanpatel1081@gmail.com  
 
