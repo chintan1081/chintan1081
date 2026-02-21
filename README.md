@@ -1,4 +1,4 @@
-# Hi, I'm Chintan Patel 👋  
+# Hi, I'm Chintan Patel 
 **Full Stack Developer**
 
 ---
@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a full-stack engineer driven by a passion for 
 
 ---
 
-## 🌟 Featured Repositories  
+## Featured Repositories  
 
 Here are some of my most popular GitHub repos:  
 
@@ -22,7 +22,7 @@ Here are some of my most popular GitHub repos:
 
 ---
 
-## 📫 Connect With Me  
+## Connect With Me  
 
 
 - [GitHub](https://github.com/chintan1081)  
